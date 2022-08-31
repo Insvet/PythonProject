@@ -1,0 +1,2 @@
+# PythonProject
+diving into python
